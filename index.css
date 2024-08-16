@@ -1,5 +1,5 @@
 body {
-    background-image: url("pexels-vladbagacian-1444108");
+    background-image: url("pexels-vladbagacian-1444108.jpg");
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
@@ -46,7 +46,6 @@ button {
 }
 
 #save-el {
-color:aliceblue;
     font-weight: bold;
 }
 
